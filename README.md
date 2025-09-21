@@ -9,7 +9,7 @@ air_quality_forecasting/
 ├── data/
 │   ├── train.csv # Training dataset (30,677 samples)
 │   ├── test.csv # Test dataset (13,148 samples)
-├── submissions/ # Generated prediction files
+├── results/ # Generated prediction files
 │   ├── submission_1.csv 
 │   └── submission_2.csv 
 │   └── submission_3.csv 
