@@ -104,6 +104,3 @@ submission.to_csv('submission_final.csv', index=False)
 * Attention mechanisms for temporal focus
 * Ensemble methods with gradient boosting meta-learners
 * Comprehensive hyperparameter optimization strategies
-
-```
-```
