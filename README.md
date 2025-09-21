@@ -6,7 +6,7 @@ This project presents an advanced deep learning solution to the Beijing PM2.5 Fo
 
 ##  Project Structure
 air_quality_forecasting/
-├── data/
+├── datasets/
 │   ├── train.csv # Training dataset (30,677 samples)
 │   ├── test.csv # Test dataset (13,148 samples)
 ├── results/ # Generated prediction files
