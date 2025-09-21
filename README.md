@@ -22,7 +22,7 @@ air_quality_forecasting/
 
 ##  Installation Requirements
 
-```bash
+
 # Core dependencies
 pip install tensorflow==2.12.0
 pip install scikit-learn==1.2.2
